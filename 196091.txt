@@ -1,0 +1,14 @@
+Во оваа лабораториска вежба користев повеќе команди.
+Како што се :
+	*cd Documents(Vleguvanje vo nekoj folder konkretno vo Documents)
+	*cd SI_2024_lab1_196091(Vleguvanje vo folderot za SI)
+	*git init(Kreiranje na Git vo folderot)
+	*git status(Da proverime na koj branch sme,vo momentot na pochetok sme na master)
+	*git remote add origin(Dodavanje na remote repo i sekogash e origin)
+	*git commit -m "Poraka"(so ovaa komanda nie pravime commit na nekoi folderi za da mozhime da gi pushtime na remote
+	so dodavanje na poraka)
+	*git push ( so ovaa komanda pravime push na rabotite na remote repo)
+	*git pull (so ova gi povlekuvame rabotite od git remote repo)
+	*git fetch origin(komanda so koja se gleda dali ja imame poslednata data od originalnoto repo)
+	*git push --all origin(ovaa komanda ja koristev za sinhronizacija na local i remote repo)
+	*git add file.txt( za dodavanje pred pravenje na commit na fajlovite za onie koi sakame da gi pushneme)
